@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Victorio Cristiansa Putra 👋
 
-<!--
-**HyperTor29/HyperTor29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a software developer passionate about building robust solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: PHP, Python, JavaScript, SQL
+- 🔭 Current focus: Back-end, Front-end
+- 🌱 Learning: Full-stack web developer
+- 🤝 Looking to collaborate on: Open-source, interesting side projects
+- ⚡ Fun fact: I'm excited to learn something new
+
+## 📈 GitHub Stats
+
+![HyperTor29's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTor29&show_icons=true&theme=radical)
+
+## 🏆 Featured Projects
+
+- Tertib Izin Lintas - System information in PT. Trans Marga Jateng build by me during my internship.
+- Web Psikotes - Web application to accomodation psychology testing in Biro Psikologi Poros build by me and my friends during my internship
+
+## 📫 How to reach me
+
+- Email: victorio.cristiansa186@gmail.com
+- LinkedIn: https://www.linkedin.com/in/victorio-cristiansa-putra/
+
+---
+
+Thanks for stopping by! Let's connect and create something amazing.
